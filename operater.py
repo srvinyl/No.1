@@ -41,8 +41,8 @@ str_z = str_x * 2
 print("str_x * 2", str_z)
 
 
-array_x = [12314, 12344]
-array_y = [123567, 213123]
+array_x = [3, 6]
+array_y = [4, 5]
 
 array_z = array_x + array_y
 print("array_x + array_y : ",array_z)
@@ -73,3 +73,8 @@ print("지원가능여부 : ", can_apply)
 
 can_apply_class_for_the_gifted = report_card["물리"] == 1 or report_card["화학"] == 1 or report_card["생명과학"] == 1
 print("영재반 지원가능여부 :", can_apply_class_for_the_gifted )
+
+z = 5 + x * 3
+print("5 + x) * 3:", z)
+z =(5 + x) * 3
+print("5 + x) * 3:", z)
