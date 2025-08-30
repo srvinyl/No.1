@@ -78,3 +78,30 @@ z = 5 + x * 3
 print("5 + x) * 3:", z)
 z =(5 + x) * 3
 print("5 + x) * 3:", z)
+
+x = [1, 2, 3, 4, 5]  # list
+print("x * 2 :", x)
+
+# slicing
+print(x[2:5])  # [start_index : end_index+1]
+
+print("append=========")
+x.append(7)
+print(x)
+
+x.insert(1, 9)
+print(x)
+
+print("remove=========")
+x.remove(1)
+print(x)
+
+print("9->6=========")
+x[0] = 6
+print(x)
+
+print("배열의 길이=========")
+print(len(x))
+
+print("배열의 마지막 인덱스========")
+print(len(x)-1)
