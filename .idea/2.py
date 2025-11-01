@@ -25,3 +25,10 @@ while index < input_number:
    if index % 2 == 0:
        print(index)
        index = index + 1
+print("피보나치 수열")
+list = [1,1]
+lasat_item = list[len(list)-1]
+while list_item <= input_unmder:
+print(last_item)
+list.append(lasat_item + list[len(list)-2]
+lasat_item = [
