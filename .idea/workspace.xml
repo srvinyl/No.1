@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26f1c735-11ab-4702-9601-a29b812ce3ec" name="변경" comment="간단한 함수선언 및 호출">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +40,18 @@
       &quot;assignee&quot;: &quot;srvinyl&quot;
     }
   ],
-  &quot;lastFilter&quot;: {
-    &quot;assignee&quot;: &quot;srvinyl&quot;
-  }
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOPW4h1M6mFcsW&quot;,
+        &quot;number&quot;: 3
+      },
+      &quot;lastSeen&quot;: 1761962279481
+    }
+  ]
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -224,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761958913628</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="간단한 함수선언 및 호출">
+      <option name="closed" value="true" />
+      <created>1761959244500</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761959244500</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,18 +279,18 @@
             <State>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
                         <option value="$USER_HOME$/Desktop" />
                         <option value="$PROJECT_DIR$" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
                       </list>
                     </value>
                   </entry>
