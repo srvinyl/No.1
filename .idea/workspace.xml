@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26f1c735-11ab-4702-9601-a29b812ce3ec" name="변경" comment="간단한 함수선언 및 호출" />
+    <list default="true" id="26f1c735-11ab-4702-9601-a29b812ce3ec" name="변경" comment="if" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761963322801</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="if">
+      <option name="closed" value="true" />
+      <created>1761963499434</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1761963499434</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,6 +329,7 @@
     <MESSAGE value="dictionary 가공 하는 방법" />
     <MESSAGE value="playground 기본형태" />
     <MESSAGE value="간단한 함수선언 및 호출" />
-    <option name="LAST_COMMIT_MESSAGE" value="간단한 함수선언 및 호출" />
+    <MESSAGE value="if" />
+    <option name="LAST_COMMIT_MESSAGE" value="if" />
   </component>
 </project>
