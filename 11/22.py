@@ -73,3 +73,22 @@ for (student, correct) in zip(a, correct_answer):
 
     score = get_score(student_answer, correct_answer)
     print(score)
+
+correct_answer = {
+    'math': [1, 3, 2, 4, 5, 3, 1, 2, 3, 4],
+    'korean': [1, 3, 2, 4, 5, 3, 1, 2, 3, 4],
+    'english': [1, 3, 2, 4, 5, 3, 1, 2, 3, 4],
+    'science': [1, 3, 2, 4, 5, 3, 1, 2, 3, 4],
+}
+for student in test:
+    math_score = get_score(student['math'], correct_answer['math'])
+    korean_score = get_score(student['korean'], correct_answer['korean'])
+    english_score = get_score(student['english'], correct_answer['english'])
+    science_score = get_score(student['science'], correct_answer['science'])
+
+    print("수학점수:", math_score)
+    print("국어점수:", korean_score)
+    print("영어점수:", english_score)
+    print("과학점수:", science_score)
+
+print("학생", student['name'], "==================")
