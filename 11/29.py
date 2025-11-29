@@ -13,14 +13,16 @@ import random
 
 import random
 
-from platground import user_input
-
-
 def updawn():
-    result = random.randrange(1, 100 )
-    print("숫자를 입력해 주세요")
-    vy_str = input()
-    vy_int = int(vy_str)  # 입력받은 문자열을 정수로 변환
-
-    if vy_int < 50:  # 정수형 변수 vy_int를 50과 비교
-        print("Up")
+    resultn = random.randrange(1, 100)
+print("숫자를 입력해 주세요")
+resultn = input()
+while True:
+    vy = input()
+    if vy < resultn:
+        print("업")
+    elif vy> resultn:
+        print("다운")
+    else:
+        print("정답입니다.")
+        break
