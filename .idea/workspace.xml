@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26f1c735-11ab-4702-9601-a29b812ce3ec" name="변경" comment="if">
+    <list default="true" id="26f1c735-11ab-4702-9601-a29b812ce3ec" name="변경" comment="11월 22일&#10;문제풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11/22.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11/29.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/29.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +41,12 @@
       &quot;assignee&quot;: &quot;srvinyl&quot;
     }
   ],
-  &quot;lastFilter&quot;: {}
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;srvinyl&quot;
+  }
 }</component>
   <component name="GitHubPullRequestState">{
-  &quot;prStates&quot;: [
-    {
-      &quot;id&quot;: {
-        &quot;id&quot;: &quot;PR_kwDOPW4h1M6mFcsW&quot;,
-        &quot;number&quot;: 3
-      },
-      &quot;lastSeen&quot;: 1761962279481
-    }
-  ]
+  &quot;prStates&quot;: []
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -58,6 +54,9 @@
     &quot;accountId&quot;: &quot;9e781ad6-d2ff-41bd-825e-65e2a5829bcd&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/11/29.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -75,6 +74,8 @@
     "Python.0.into.executor": "Run",
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.22.executor": "Run",
+    "Python.29.executor": "Run",
     "Python.operater.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -282,7 +283,47 @@
       <option name="project" value="LOCAL" />
       <updated>1761966106154</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="if">
+      <option name="closed" value="true" />
+      <created>1761966251656</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1761966251656</updated>
+    </task>
+    <task id="LOCAL-00025" summary="if">
+      <option name="closed" value="true" />
+      <created>1763777426140</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1763777426140</updated>
+    </task>
+    <task id="LOCAL-00026" summary="if">
+      <option name="closed" value="true" />
+      <created>1763778079355</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1763778079355</updated>
+    </task>
+    <task id="LOCAL-00027" summary="11월 22일 점수구하기">
+      <option name="closed" value="true" />
+      <created>1763779919505</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1763779919505</updated>
+    </task>
+    <task id="LOCAL-00028" summary="11월 22일&#10;문제풀이">
+      <option name="closed" value="true" />
+      <created>1764379510183</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1764379510183</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,13 +360,6 @@
             <State>
               <option name="FILTERS">
                 <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="dev" />
-                      </list>
-                    </value>
-                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
@@ -357,17 +391,8 @@
     <MESSAGE value="playground 기본형태" />
     <MESSAGE value="간단한 함수선언 및 호출" />
     <MESSAGE value="if" />
-    <option name="LAST_COMMIT_MESSAGE" value="if" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.idea/2.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="11월 22일 점수구하기" />
+    <MESSAGE value="11월 22일&#10;문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="11월 22일&#10;문제풀이" />
   </component>
 </project>
