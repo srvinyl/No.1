@@ -16,7 +16,7 @@ import random
 def updawn():
     resultn = random.randrange(1, 100)
 print("숫자를 입력해 주세요")
-resultn = input()
+
 while True:
     vy = input()
     if vy < resultn:
@@ -26,3 +26,15 @@ while True:
     else:
         print("정답입니다.")
         break
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
